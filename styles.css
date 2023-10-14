@@ -1,0 +1,56 @@
+nav {
+    background-color:black;
+    font-size: xx-large;
+    color:white;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+img {
+    display: inline-block;
+    border-radius: 50%;
+    padding: 3px;
+    height: 300px;
+    margin: 10px;
+    background-color: black;
+
+}
+html {
+    background-color:e85d04 ;
+}
+
+#about-info {
+  text-align: center;
+  padding: 50px;
+  border: 1px;
+  border-style: solid;
+  font-style: normal;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  line-height: 1.5;
+  background-color: black;
+  color: bisque;
+  margin: 40px;
+}
+#name {
+  text-align: center;
+  font-style: italic;
+  border: 1px;
+  color: cd9777;
+  padding: 4px;
+  border-style: solid;
+  border-color: bisque;
+  background-color: black;
+}
+#intro {
+  text-align: center;
+}
+#birth-name {
+  text-align: center;
+  font-style: italic;
+}
+#rema-grill {
+ display:flex;
+ align-items: center;
+ justify-content: center;
+}

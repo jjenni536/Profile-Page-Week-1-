@@ -11,10 +11,10 @@ img {
     border-radius: 50%;
     padding: 3px;
     height: 300px;
-    margin: 10px;
-    background-color: black;
-
+    margin: 20px;
+    background-color: black
 }
+
 html {
     background-color:e85d04 ;
 }
@@ -53,4 +53,37 @@ html {
  display:flex;
  align-items: center;
  justify-content: center;
+}
+#facts-header {
+  text-align: center;
+  border-style: solid;
+  border-color: bisque;
+  background-color: black;
+  color: cd9777;
+  border: 1px;
+  padding: 4px;
+  margin: 10px;
+}
+ul {
+  text-align: center;
+  margin: 40px;
+  padding: 50px;
+  color: cd9777;
+  background-color: black;
+  border-style: solid;
+  border-color: bisque;
+  border: 1px;
+  line-height: 1.5;
+  letter-spacing: 2px;
+}
+ol {
+  text-align: center;
+  margin: 40px;
+  color: cd9777;
+  background-color: black;
+  border-style: solid;
+  border-color: bisque;
+  border: 1px;
+  line-height: 1.5;
+  letter-spacing: 2px;
 }
